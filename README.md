@@ -1,2 +1,2 @@
 # practice-repo
-Updated Read Me <br> Author: [Muhammad Zohaib]
+Updated Read Me <br> Author: [Muhammad Zohaib Ch]
